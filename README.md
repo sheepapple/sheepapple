@@ -15,7 +15,7 @@ I love computers—but to extrapolate: I love *controlling* computers, machines,
 I have a strong background in object-oriented programming and large-scale projects, but recently I've been diving into low-level programming, embedded systems, and robotics.
 
 <p align="center">
-<em>⎯⎯⎯⎯⎯⎯Describing myself in a single sentence: "I take inspiration personally—as a call to push myself to greater heights."⎯⎯⎯⎯⎯⎯</em>
+<em>⎯⎯⎯⎯Describing myself in a single sentence: "I take inspiration personally—as a call to push myself to greater heights."⎯⎯⎯⎯</em>
 </p>
 
 
