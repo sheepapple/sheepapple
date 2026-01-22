@@ -1,15 +1,23 @@
 <div align="center">
-  <p><em>\ Hi, I'm sheepapple! /</em></p>
-  <img src="https://avatars.githubusercontent.com/u/87826504?s…00&u=f38adefbcb0e23e269076e9dbc606e4e69564ba8&v=4" alt="Profile Picture" width="200"/>
+  <h2><em>\ Hi, I'm sheepapple! /</em></h2>
+  <img src="https://avatars.githubusercontent.com/u/87826504?s=400&u=f38adefbcb0e23e269076e9dbc606e4e69564ba8&v=4" alt="Profile Picture" width="200"/>
 </div>
 
 ## ❯ whoami
 
-Hello, I'm known online as: **sheepapple**, in-person as: **Alex Mizrahi**. I'm a second-year student studying Computer Science at Northeastern University.
+<p align="center">
+Hello, I'm known online as <b>sheepapple</b>, in-person as <b>Alex Mizrahi</b>.<br>
+I'm a second-year Computer Science student at Northeastern University.
+</p>
 
-I'm passionate about building innovative solutions and sharing my work with the world through open source.
+I love computers—but to extrapolate: I love *controlling* computers, machines, and systems through programming. I'm always eager to build, whether it's software or hardware. Every new project is a rabbit hole waiting to be challenged, explored, and conquered. 
 
-Introducing myself in a single sentence : "".
+I have a strong background in object-oriented programming and large-scale projects, but recently I've been diving into low-level programming, embedded systems, and robotics.
+
+<p align="center">
+<em>Describing myself in a single sentence: "I take inspiration personally—as a call to push myself higher."</em>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/in/alexandermizrahi/) 
