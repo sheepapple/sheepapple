@@ -10,12 +10,12 @@ Hello, I'm known online as <b>sheepapple</b>, in-person as <b>Alex Mizrahi</b>.<
 I'm a second-year Computer Science student at Northeastern University.
 </p>
 
-I love computers—but to extrapolate: I love *controlling* computers, machines, and systems through programming. I'm always eager to build, whether it's software or hardware. Every new project opens a new **rabbit hole** waiting to be challenged, explored, and conquered. 
+I love computers— especially how to *control* computers, machines, and systems through programming. I'm always eager to build, whether it's software or hardware. Every new project opens a new rabbit hole waiting to be challenged, explored, and conquered. 
 
 I have a strong background in object-oriented programming and large-scale projects, but recently I've been diving into low-level programming, embedded systems, and robotics.
 
 <p align="center">
-<em>⎯⎯⎯⎯Describing myself in a single sentence: "I take inspiration personally—as a call to push myself to greater heights."⎯⎯⎯⎯</em>
+<em>Describing myself in a single sentence: "I take inspiration personally—as a call to push myself to greater heights."</em>
 </p>
 
 
